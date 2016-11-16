@@ -1,0 +1,39 @@
+body{
+	background-color: white;
+}
+.group{
+	background-color: lightgray;
+	height: 150px;
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
+.mye{
+	text-align: center;
+	font-weight: bold;
+}
+
+.zuck{
+	padding-top: 30px;
+}
+
+.block{
+	height:50px; 
+	width:50px;
+	padding-top: 10px;
+}
+
+.gtb{
+	margin-bottom: 30px;
+	margin-left: 180px;
+}
+.lite{
+	display: inline;
+}
+
+.file{
+	font-size: 25px;
+	font-weight: bold;
+	color: white;
+	background-color: gray;
+}

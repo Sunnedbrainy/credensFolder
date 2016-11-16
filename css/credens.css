@@ -1,0 +1,138 @@
+
+nav{
+	border: 1px solid black;
+	padding-top: 20px;
+	padding-bottom: 30px;
+	border-radius: 50px;
+}
+
+#cred{
+	height: 18px;
+	float: left;
+}
+.elite{
+	float: right;
+	margin-right: 30px;
+}
+
+nav a {
+	margin-left: 20px;
+	text-decoration: none;
+	float: left;
+}
+.p{
+	background-image: url("../img/images.jpg");
+	height: 250px;
+}
+
+.my{
+	width: 25%;
+}
+
+#high{
+	float: right;
+	height:150px; 
+	width:200px;
+	margin-right: 200px;
+	padding-top: 10px;
+}
+
+#dar{
+	background-color: red;
+	border:1px solid red;
+	color:white;
+}
+
+.clat{
+	height:20px; 
+	width:20px;
+	float: right;
+	margin-left: 5px;
+	padding-top: 30px;
+}
+.clien{
+		text-align: center;
+		padding-top: 20px;
+}
+.row{
+	width: 100%;
+	display: inline-block;
+}
+
+
+.w{
+	width:15%;
+	margin-left: 80px;
+	display: inline-block;
+	text-align: center;
+
+}
+
+.x{
+	width:15%;
+	margin-left: 100px;
+	display: inline-block;
+	text-align: center;
+}
+
+.y{
+	width:15%;
+	margin-left: 100px;
+	display: inline-block;
+	text-align: center;
+}
+
+.z{
+	width:15%;
+	margin-left: 100px;
+	display: inline-block;
+	text-align: center;
+}
+
+
+.itclow{
+	width: 100%;
+	display: inline-block;
+	background-color: #cccccc;
+}
+
+.tin{
+	width:17%;
+	display: inline-block;
+	margin-left: 80px;
+}
+
+.timb{
+	width:30%;
+	display: inline-block;
+	margin-left: 120px;
+}
+
+.avi{
+	background-color: red;
+	border:none;
+}
+
+.edu{
+	width:30%;
+	display: inline-block;
+	margin-left: 70px;
+}
+
+#dell{
+	height:270px;
+	width: 300px;
+}
+
+div img{
+	height: 20px;
+	width: 20px;
+}
+
+.ion{
+	color:red;
+}
+
+.ion:active{
+	text-decoration: underline;
+}
